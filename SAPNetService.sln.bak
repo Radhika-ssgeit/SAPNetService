@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SAPNetService - 11052022 - with config", ".", "{659803D3-6BE8-4860-9904-6E601E4654C7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55012"
+		Debug.AspNetCompiler.PhysicalPath = "..\SAPNetService - 11052022 - with config\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55012\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55012"
+		Release.AspNetCompiler.PhysicalPath = "..\SAPNetService - 11052022 - with config\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55012\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55012"
+		SlnRelativePath = "..\SAPNetService - 11052022 - with config\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659803D3-6BE8-4860-9904-6E601E4654C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659803D3-6BE8-4860-9904-6E601E4654C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7B58CE0-D70C-4348-BEF9-DD4D8489260F}
+	EndGlobalSection
+EndGlobal
